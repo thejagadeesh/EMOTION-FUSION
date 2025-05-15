@@ -28,7 +28,7 @@
 ![IMAGEANNO](https://github.com/user-attachments/assets/a872026f-ab6f-409f-b61e-926dde5a65de)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-🎞️ Video Annotation
+## 🎞️ Video Annotation
 <p style="font-size:18px; font-weight:normal;">Upload videos to analyze facial emotions frame-by-frame. Download annotated videos with emotion labels for offline review.</p><br>
 
 ![VEDIOANNO](https://github.com/user-attachments/assets/8b1f8056-aefe-4bc1-ab10-2aff90f1dd06)
