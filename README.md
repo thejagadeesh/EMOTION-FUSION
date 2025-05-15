@@ -1,26 +1,27 @@
 # Emotion-Fusion
-![HOMEPAGE](https://github.com/user-attachments/assets/880dab22-9b87-4777-890e-6f9bb41a8574)
+
+![HOMEPAGE](https://github.com/user-attachments/assets/99efcfbb-f82a-44b8-9d54-754077172977)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![ANALYZESENTENCE](https://github.com/user-attachments/assets/442fc1a9-f9c7-4514-800d-9e955c482b18)
+![ANALYZESENTENCE](https://github.com/user-attachments/assets/24583cea-189c-4c6d-b814-841c60bae9bd)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![GENERATESTORY](https://github.com/user-attachments/assets/ba8811c5-94dd-492a-928d-7fe41be6909e)
+![GENERATESTORY](https://github.com/user-attachments/assets/75f84329-1d18-458c-a920-50d70d1431a9)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![GENERATESTORYPDF](https://github.com/user-attachments/assets/6e98ac13-41fe-4282-834b-c8b21141714a)
+![GENERATESTORYPDF](https://github.com/user-attachments/assets/9774dfb4-a2de-457e-963b-e027116adb6a)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![IMAGEANNO](https://github.com/user-attachments/assets/508850c0-fff1-4ecd-b51f-ae311603fb15)
+![IMAGEANNO](https://github.com/user-attachments/assets/a872026f-ab6f-409f-b61e-926dde5a65de)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![VEDIOANNO](https://github.com/user-attachments/assets/c1c470d2-0ede-41a9-94c8-d434b6feb13b)
+![VEDIOANNO](https://github.com/user-attachments/assets/8b1f8056-aefe-4bc1-ab10-2aff90f1dd06)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![LIVECAM](https://github.com/user-attachments/assets/d5b08213-c28d-41c4-aa94-3c4fb076a7ae)
+![LIVECAM](https://github.com/user-attachments/assets/22199eb6-47d4-4608-af04-a5a7f82d41ac)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![AUDIOANNO](https://github.com/user-attachments/assets/8dffc6c4-acb4-4323-b7c0-d7a211cff813)
+![AUDIOANNO](https://github.com/user-attachments/assets/e0d4db32-4adc-4854-a713-7a0c5effd00f)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
